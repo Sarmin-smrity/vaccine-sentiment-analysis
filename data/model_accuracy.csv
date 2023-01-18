@@ -1,0 +1,7 @@
+Model,Vader_accuracy,textblob_accuracy
+LR,94.46,96.28
+RF,93.03,94.3
+NB,80.76,81.79
+SVM,96.15,97.31
+DT,94.59,96.03
+CatBoost,95.36,96.31
