@@ -11,12 +11,10 @@ import nltk
 #nltk.download('vader_lexicon')
 import spacy
 from spacytextblob.spacytextblob import SpacyTextBlob
-import vega 
 from streamlit_option_menu import option_menu
 import seaborn as sns
 import pandas as pd
-import unicodedata
-import re
+
 # ?import string
 #Gensim
 import gensim
