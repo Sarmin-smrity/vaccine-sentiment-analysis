@@ -14,3 +14,4 @@ spacy-loggers==1.0.4
 spacytextblob==4.0.0
 gensim==4.3.0
 pyLDAvis==3.3.1
+scikit-learn
