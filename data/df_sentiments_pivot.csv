@@ -1,0 +1,7 @@
+sentiment,analyzer,percentage
+Negative,'NLTK Vader',7.94
+Negative,'TextBlob',3.84
+Neutral,'NLTK Vader',61.33
+Neutral,'TextBlob',69.82
+Positive,'NLTK Vader',30.72
+Positive,'TextBlob',26.34

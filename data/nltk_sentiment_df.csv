@@ -1,0 +1,4 @@
+sentiment,counts,percentage,analyzer
+Negative,3956,7.94,NLTK Vader
+Neutral,30548,61.33,NLTK Vader
+Positive,15303,30.72,NLTK Vader
