@@ -1,6 +1,7 @@
 streamlit==1.16.0
 streamlit-option-menu==0.3.2
 pandas==1.2.4
+scikit-learn==1.2.0
 matplotlib==3.5.0
 matplotlib-inline==0.1.2
 plotly==5.11.0
@@ -14,4 +15,3 @@ spacy-loggers==1.0.4
 spacytextblob==4.0.0
 gensim==4.3.0
 pyLDAvis==3.3.1
-scikit-learn==1.2.0
